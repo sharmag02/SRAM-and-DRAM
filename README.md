@@ -182,19 +182,26 @@ The CMOS VLSI section includes:
 
 ## 6T SRAM Cell
 
-![6T SRAM](SRAM/6TSRAM.png)
+![6T SRAM]
+<img width="1378" height="598" alt="image" src="https://github.com/user-attachments/assets/09da367c-f8cf-408b-a83f-feb192b0f50d" />
+
+
 
 ---
 
 ## SRAM Transient Analysis
 
-![SRAM Transient](CMOS%20VLSI/SRAM/6T%20SRAM%20Transient%20Analysis.png)
+![SRAM Transient]
+<img width="1706" height="598" alt="image" src="https://github.com/user-attachments/assets/08beaa7e-432c-4dc3-a678-821d76176e95" />
+
 
 ---
 
 ## SRAM DC Analysis
 
-![SRAM DC](CMOS%20VLSI/SRAM/6TSRAM%20DC%20Analysis.png)
+![SRAM DC]
+<img width="1713" height="667" alt="image" src="https://github.com/user-attachments/assets/1f813ac9-ef6c-4e05-b3a4-2fd79f77fb17" />
+
 
 ---
 
@@ -202,19 +209,25 @@ The CMOS VLSI section includes:
 
 ## DRAM Cell
 
-![DRAM Cell](CMOS%20VLSI/DRAM/dram.PNG)
+![DRAM Cell]
+<img width="669" height="354" alt="image" src="https://github.com/user-attachments/assets/f47a528e-6819-444f-859c-ffc79386637e" />
+
 
 ---
 
 ## DRAM Timing Analysis
 
-![DRAM Timing](CMOS%20VLSI/DRAM/dram%20timing%20diagram.PNG)
+![DRAM Timing]
+<img width="1151" height="339" alt="image" src="https://github.com/user-attachments/assets/81088230-0f93-45ec-a002-cd9b3d9770b1" />
+
 
 ---
 
 ## DRAM DC Analysis
 
-![DRAM DC](CMOS%20VLSI/DRAM/DRAM%20DC%20Analysis.png)
+![DRAM DC]
+<img width="1711" height="660" alt="image" src="https://github.com/user-attachments/assets/e5f5b8e2-3162-4acb-93d1-dd076c8709c7" />
+
 
 ---
 
