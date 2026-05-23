@@ -1,0 +1,243 @@
+$date
+   Sun May 10 16:10:22 2026
+$end
+
+$version
+  2025.2
+  $dumpfile ("ssram.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module ssram_tb $end
+$var reg 1 ! CLK $end
+$var reg 1 " CS $end
+$var reg 1 # ADS_L $end
+$var reg 1 $ GW_L $end
+$var reg 1 % OE $end
+$var reg 4 & ADDR [3:0] $end
+$var wire 8 ' DIO [7:0] $end
+$var reg 8 ( drive_data [7:0] $end
+$var reg 1 ) drive_enable $end
+$scope module uut $end
+$var wire 1 * CLK $end
+$var wire 1 + CS $end
+$var wire 1 , ADS_L $end
+$var wire 1 - GW_L $end
+$var wire 1 . OE $end
+$var wire 4 / ADDR [3:0] $end
+$var wire 8 ' DIO [7:0] $end
+$var reg 4 0 AREG [3:0] $end
+$var reg 1 1 CREG $end
+$var reg 8 2 INREG [7:0] $end
+$var reg 8 3 OUTREG [7:0] $end
+$var reg 8 4 DOUT [7:0] $end
+$var reg 1 5 write_enable $end
+$var reg 1 6 read_enable $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+0"
+1#
+1$
+0%
+b0 &
+bz '
+b0 (
+0)
+0*
+0+
+1,
+1-
+0.
+b0 /
+bx 0
+x1
+bx 2
+bx 3
+bx 4
+x5
+x6
+$end
+
+#5000
+1!
+1*
+
+#10000
+0!
+0*
+
+#15000
+1!
+1*
+
+#20000
+0!
+1"
+1%
+bx '
+0*
+1+
+1.
+
+#25000
+1!
+0#
+0$
+b11 &
+b10100101 '
+b10100101 (
+1)
+1*
+0,
+0-
+b11 /
+b11 0
+01
+
+#30000
+0!
+0*
+
+#35000
+1!
+1#
+1*
+1,
+b10100101 2
+
+#40000
+0!
+0*
+
+#45000
+1!
+1$
+bx '
+0)
+1*
+1-
+11
+
+#50000
+0!
+0*
+
+#55000
+1!
+0#
+1*
+0,
+
+#60000
+0!
+0*
+
+#65000
+1!
+1#
+1*
+1,
+
+#70000
+0!
+0*
+
+#75000
+1!
+b100 &
+1*
+b100 /
+
+#80000
+0!
+0*
+
+#85000
+1!
+b101 &
+1*
+b101 /
+
+#90000
+0!
+0*
+
+#95000
+1!
+1*
+
+#100000
+0!
+0*
+
+#105000
+1!
+1*
+
+#110000
+0!
+0*
+
+#115000
+1!
+1*
+
+#120000
+0!
+0*
+
+#125000
+1!
+1*
+
+#130000
+0!
+0*
+
+#135000
+1!
+1*
+
+#140000
+0!
+0*
+
+#145000
+1!
+1*
+
+#150000
+0!
+0*
+
+#155000
+1!
+1*
+
+#160000
+0!
+0*
+
+#165000
+1!
+1*
+
+#170000
+0!
+0*
+
+#175000
+1!
+1*
+
+#180000
+0!
+0*
