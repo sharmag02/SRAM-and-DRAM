@@ -182,7 +182,7 @@ The CMOS VLSI section includes:
 
 ## 6T SRAM Cell
 
-![6T SRAM](CMOS%20VLSI/SRAM/6TSRAM.png)
+![6T SRAM](SRAM/6TSRAM.png)
 
 ---
 
